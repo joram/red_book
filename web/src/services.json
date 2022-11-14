@@ -1,0 +1,567 @@
+[
+    {
+        "address": null,
+        "description": "Canada's source for HIV and hepatitis C information | La source canadienne de renseignements sur le VIH et l'h\u00e9patite C",
+        "email": null,
+        "keywords": [],
+        "name": "CATIE - Canada's source for HIV and hepatitis C information",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.catie.ca/sites/default/files/2022-01/catieicon.jpg",
+        "url": "www.catie.ca"
+    },
+    {
+        "address": null,
+        "description": "The Women's Health Collective is a non-profit organization that provides a safe & welcoming environment for all women seeking health information and services",
+        "email": null,
+        "keywords": [
+            "&",
+            "naturopathic",
+            "counselling",
+            "wellness",
+            "collective"
+        ],
+        "name": null,
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.womenshealthcollective.ca"
+    },
+    {
+        "address": null,
+        "description": "RainCity Housing and Support Society is a nonprofit organization that provides housing and supports to over 2000 people throughout British Columbia's Lower Mainland and Sunshine Coast.",
+        "email": null,
+        "keywords": [
+            "&",
+            "40",
+            "raincity",
+            "housing",
+            "involved"
+        ],
+        "name": "Home - RainCity Housing",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.raincityhousing.org/wp-content/uploads/2018/09/street-flower.jpg",
+        "url": "www.raincityhousing.org"
+    },
+    {
+        "address": null,
+        "description": "Our mission is to unite, represent and serve our members in a thriving co-operative housing movement.",
+        "email": null,
+        "keywords": [
+            "co-op",
+            "co-ops",
+            "&",
+            "-",
+            "2022"
+        ],
+        "name": "Home - CHF BC",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.chf.bc.ca"
+    },
+    {
+        "address": null,
+        "description": "",
+        "email": null,
+        "keywords": [
+            "lu\u2019ma",
+            "lu'ma",
+            "mentorship",
+            "homelessness",
+            "aboriginal"
+        ],
+        "name": "Lu'ma",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "http://static1.squarespace.com/static/608969569a666b41bb6d2f70/t/625719d4d6743c544b39c095/1649875412264/Luma+Logo+2022+4C+REV+version-sm.png?format=1500w",
+        "url": "www.lnhs.ca"
+    },
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Canada",
+            "addressLocality": "Port Moody",
+            "addressRegion": "BC",
+            "postalCode": "V3H 0L7",
+            "streetAddress": "#101-2312 St. Johns St"
+        },
+        "description": "SHARE Family and Community Services exists to Connect, Engage, and Strengthen Individuals and Families. SHARE is a non-profit, independent, community based organization providing leadership and programs in response to the social needs of the residents of the Tri-Cities (Coquitlam, Port Coquitlam, Port Moody, Anmore and Belcarra), New Westminster and adjacent communities.",
+        "email": null,
+        "keywords": [
+            "&",
+            "tri-cities",
+            "|",
+            "43",
+            "donate"
+        ],
+        "name": "SHARE Family & Community Services",
+        "openingHours": "Mo 08:30-16:30 Tu 08:30-16:30 We 08:30-16:30 Th 08:30-16:30 Fr 08:30-16:30",
+        "telephone": null,
+        "thumbnail": "https://share-society.treepl.co/_images/misc/share-community-2.jpg",
+        "url": "www.sharesociety.ca"
+    },
+    {
+        "address": null,
+        "description": null,
+        "email": null,
+        "keywords": [
+            "deltassist",
+            "\u25b2",
+            "blog:",
+            "&",
+            "covid-19"
+        ],
+        "name": "Deltassist Family and Community Services Society - Deltassist Family and Community Services Society",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://deltassist.com/website/wp-content/uploads/dad%20and%20child.jpg",
+        "url": "www.deltassist.com"
+    },
+    {
+        "address": null,
+        "description": "At DIVERSEcity Community Resources Society, we help newcomers and diverse communities with settlement, language, employment services and more.",
+        "email": null,
+        "keywords": [
+            "diversecity",
+            "newcomers",
+            "skills",
+            "centre",
+            "programs"
+        ],
+        "name": "DIVERSEcity Community Resources Society",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.dcrs.ca/assets/media/2019/01/facebook-preview.jpg",
+        "url": "www.dcrs.ca"
+    },
+    {
+        "address": null,
+        "description": "Family Services of Greater Vancouver is a non-profit dedicated to improving lives across the Lower Mainland.",
+        "email": null,
+        "keywords": [
+            "\u2013",
+            "fsgv",
+            "|",
+            "*",
+            "counselling"
+        ],
+        "name": "Family Services of Greater Vancouver",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.fsgv.ca"
+    },
+    {
+        "address": null,
+        "description": "Fraserside is inspired to create communities of belonging where the diversity of all people is welcome. Fraserside supports people needing housing, seeking work, with low income/or having developmental disabilities, mental health or substance use issues. Our focus is New Westminster and neighbouring communities",
+        "email": null,
+        "keywords": [
+            "fraserside",
+            "fraserside\u2019s",
+            "&",
+            "employment:",
+            "50th"
+        ],
+        "name": "Home - Fraserside Community Services Society",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.fraserside.bc.ca/wp-content/uploads/2022/05/50-years-300x237.png",
+        "url": "www.fraserside.bc.ca"
+    },
+    {
+        "address": null,
+        "description": "Demonstrating the love of Christ, Union Gospel Mission is determined to transform communities by overcoming poverty, homelessness, and addiction.",
+        "email": null,
+        "keywords": [
+            "&",
+            "ugm",
+            "homelessness",
+            "gratitude",
+            "donate"
+        ],
+        "name": "Union Gospel Mission | Transforming Communities One Life At A Time",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://ugm.ca/sites/default/files/styles/rad_classic_1200w/public/images/2022-10/029%20-%202022.10.10%20-%20Thanksgiving%20Community%20Meal.jpg?h=ddb57540&itok=p22yXruK",
+        "url": "www.ugm.ca"
+    },
+    {
+        "address": null,
+        "description": null,
+        "email": null,
+        "keywords": [
+            "vahs",
+            "covid-19",
+            "indigenous",
+            "donations",
+            "programs"
+        ],
+        "name": "Be \u2022 Connect \u2022 Root \u2022 Grow | VAHS",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.vahs.life/themes/custom/vnhs/assets/img/OpenGraph.jpg",
+        "url": "www.vnhs.net"
+    },
+    {
+        "address": null,
+        "description": "YWCA Metro Vancouver\u2019s advocacy and holistic, integrated services are anchored in the fundamentals of safety, housing, early learning and child care, and employment.",
+        "email": null,
+        "keywords": [
+            "&",
+            "ywca",
+            "submenu",
+            "crabtree",
+            "hide"
+        ],
+        "name": "YWCA Metro Vancouver",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://ywcavan.org/sites/default/files/assets/media/image/2021-11/20190715-0D0A0529.jpg",
+        "url": "www.ywcavan.org"
+    },
+    {
+        "address": null,
+        "description": null,
+        "email": null,
+        "keywords": [
+            "&",
+            "peak",
+            "youth",
+            "house",
+            "watch"
+        ],
+        "name": "Home | Peak House",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.peakhouse.ca"
+    },
+    {
+        "address": null,
+        "description": null,
+        "email": null,
+        "keywords": [
+            "2022",
+            "\u2013",
+            "wso",
+            "awc",
+            "aca"
+        ],
+        "name": "Welcome - Adult Children of Alcoholics & Dysfunctional Families",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.adultchildren.org"
+    },
+    {
+        "address": null,
+        "description": "MOSAIC programs help immigrants and refugees settle and start a new life in Canada. Find employment, settlement, and language services here.",
+        "email": null,
+        "keywords": [
+            "canada.",
+            "-",
+            "2022",
+            "0",
+            "15"
+        ],
+        "name": "MOSAIC | Settlement and Employment Services for Newcomers",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.mosaicbc.com"
+    },
+    {
+        "address": null,
+        "description": "Serving immigrant, refugee, visible minority, non-status women and children experiencing family violence in Metro Vancouver.",
+        "email": null,
+        "keywords": [
+            "\u25be",
+            "family",
+            "services",
+            "you",
+            "in"
+        ],
+        "name": "Vancouver &amp; Lower Mainland Multicultural Family Support Services Society",
+        "openingHours": null,
+        "telephone": "604.436.1025",
+        "thumbnail": "https://www.vlmfss.ca/images/fb-meta.jpg",
+        "url": "www.vlmfss.ca"
+    },
+    {
+        "address": "102 Holdom Avenue\nBurnaby, BC, V5B 0A4\nCanada",
+        "description": "",
+        "email": "bfl_info@burnabyfamilylife.org",
+        "keywords": [
+            "folder:",
+            "&",
+            "child-minding",
+            "us!",
+            "linc"
+        ],
+        "name": "Burnaby Family Life",
+        "openingHours": "Mo 09:00-16:00, Tu 09:00-16:00, We 09:00-16:00, Th 09:00-16:00, Fr 09:00-16:00, , ",
+        "telephone": "604 659 2200",
+        "thumbnail": "http://static1.squarespace.com/static/6176fa10dba51013ace15bf6/t/62cdedafe7a1f11dad4c70b6/1657662895884/BFL2015Logo-+Image+only+colour.jpg?format=1500w",
+        "url": "www.burnabyfamilylife.org"
+    },
+    {
+        "address": null,
+        "description": null,
+        "email": null,
+        "keywords": [
+            ">",
+            "&",
+            "lgbtq2s+",
+            "violence,",
+            "jessie\u2019s"
+        ],
+        "name": "Home Page - Family Services of the North Shore",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.familyservices.bc.ca"
+    },
+    {
+        "address": null,
+        "description": "",
+        "email": null,
+        "keywords": [
+            "residential",
+            "orange",
+            "shirt",
+            "indian",
+            "learn"
+        ],
+        "name": "",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.irsss.ca/files/og-image.jpg",
+        "url": "www.irsss.ca"
+    },
+    {
+        "address": null,
+        "description": "Greater Vancouver Community Services Society (GVCSS) is a non-profit society delivering care and services in the community to the elderly, people with disabilities, and others who require support to retain or regain health and autonomy.",
+        "email": null,
+        "keywords": [
+            "&",
+            "-",
+            "covid-19",
+            "donate",
+            "testimonials"
+        ],
+        "name": "Greater Vancouver Community Services Society - Greater Vancouver Community Services Society",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.gvcss.bc.ca/images/logo.svg",
+        "url": "www.gvcss.bc.ca"
+    },
+    {
+        "address": null,
+        "description": "TransLink is Metro Vancouver\u2019s transportation network, serving residents and visitors with public transit, major roads, bridges and Trip Planning.",
+        "email": null,
+        "keywords": [
+            "twitter",
+            "translink",
+            "transit",
+            "metro",
+            "bus"
+        ],
+        "name": "Home",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.translink.ca/-/media/translink/images/homepage/og_home.jpg",
+        "url": "www.translink.ca"
+    },
+    {
+        "address": null,
+        "description": null,
+        "email": null,
+        "keywords": [
+            "rils",
+            "residences",
+            "volunteer",
+            "donate",
+            "living"
+        ],
+        "name": "Home - RILS: Residences for Independent Living Society",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://rils.ca/wp-content/uploads/2019/07/Rils_Sliders-02-e1562363262629-300x249.jpg",
+        "url": "www.rils.ca"
+    },
+    {
+        "address": null,
+        "description": "As Canada\u2019s engaged university, SFU works with communities, organizations and partners to create, share and embrace knowledge that improves life and generates real change.",
+        "email": null,
+        "keywords": [
+            "+",
+            "sfu.ca",
+            "sfu",
+            "reconciliation",
+            "fraser"
+        ],
+        "name": "Simon Fraser University",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://www.sfu.ca/content/dam/sfu/main/template-2022/SFU-block-image-sfu.jpg/jcr:content/renditions/medium.jpg",
+        "url": "www.sfu.ca"
+    },
+    {
+        "address": null,
+        "description": "YouthCO is a youth-led\u00a0HIV and Hep C organization that seeks to reduce stigma related to HIV and Hep C throughout British Columbia using peer education and support. Our programs include Y\u00fausnewas, Mpowerment, and Camp Moomba!",
+        "email": null,
+        "keywords": [
+            "our"
+        ],
+        "name": "YouthCO",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://assets.nationbuilder.com/youthco/sites/8/meta_images/original/YouthCo-meta.png?1592938067",
+        "url": "www.youthco.org"
+    },
+    {
+        "address": null,
+        "description": "CLAS is a non-profit law firm serving people in BC since 1971. Our programs include BC HRC, MHLP, CLP, SHARP Workplaces, and CASL.",
+        "email": null,
+        "keywords": [
+            "|",
+            "2022",
+            "2022-11-10t16:37:31-08:00",
+            "non-disclosure",
+            "2022-10-20t13:32:39-07:00"
+        ],
+        "name": "Home",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": "https://clasbc.net/wp-content/uploads/2018/12/Logo.png",
+        "url": "www.clasbc.net"
+    },
+    {
+        "address": null,
+        "description": "AMSSA offers services to support settlement, language and diversity service providers",
+        "email": null,
+        "keywords": [
+            "amssa",
+            "2022",
+            "iicc",
+            "/",
+            "2021"
+        ],
+        "name": null,
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.amssa.org"
+    },
+    {
+        "address": null,
+        "description": "If you\u2019re a newcomer to Canada, we can help. ISSofBC provides free immigrant services including settlement support, employment programs, English classes, and more.",
+        "email": null,
+        "keywords": [
+            "2022",
+            "&",
+            "issofbc",
+            "2021-2022",
+            "newcomer"
+        ],
+        "name": "ISSofBC | Immigrant Services Society of BC",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.issbc.org"
+    },
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA",
+            "addressLocality": "North Vancouver",
+            "addressRegion": "BC",
+            "postalCode": "V7L 1C2",
+            "streetAddress": "131 2nd Street East"
+        },
+        "description": "The North Shore Women's Centre is a women's drop-in resource centre located in North Vancouver, BC. ",
+        "email": null,
+        "keywords": [
+            "&",
+            "donate",
+            "centre",
+            "programs",
+            "north"
+        ],
+        "name": "North Shore Women's Centre",
+        "openingHours": null,
+        "telephone": "+CA 6049846009",
+        "thumbnail": "https://static.wixstatic.com/media/3231fc_56ec7e9238fc441e864cbb2380488244~mv2.png/v1/fill/w_1575,h_900,al_c/3231fc_56ec7e9238fc441e864cbb2380488244~mv2.png",
+        "url": "www.northshorewomen.ca"
+    },
+    {
+        "address": null,
+        "description": null,
+        "email": null,
+        "keywords": [
+            "604-530-9442",
+            "24/7",
+            "assistance,",
+            "9-1-1",
+            "help!"
+        ],
+        "name": "Ishtar",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.ishtarsociety.org"
+    },
+    {
+        "address": null,
+        "description": "The Downtown Eastside Women\u2019s Centre provides a safe space for women and children in the Downtown Eastside. We offer practical support, basic necessities and hot nutritious meals to over 500 women and children every day.",
+        "email": null,
+        "keywords": [
+            "&",
+            "women\u2019s",
+            "dewc",
+            "\u00b7",
+            "eastside"
+        ],
+        "name": "Welcome - Downtown Eastside Women's Centre",
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.dewc.ca"
+    },
+    {
+        "address": "#303-1140 West Pender Street \nVancouver, BC, V6E 2R9\nCanada",
+        "description": "",
+        "email": "povnet@gmail.com",
+        "keywords": [
+            "advocate",
+            "community",
+            "find",
+            "an",
+            "about"
+        ],
+        "name": "PovNet",
+        "openingHours": ", , , , , , ",
+        "telephone": "604-876-8638",
+        "thumbnail": "http://static1.squarespace.com/static/5dcda3a31fc5a975052d847d/t/5dcda7a358ca2746afd6483a/1573758904197/1919238_207146393766_1087054_n.jpg?format=1500w",
+        "url": "www2.povnet.org"
+    },
+    {
+        "address": null,
+        "description": "Canadian Charities",
+        "email": null,
+        "keywords": [
+            "programs,",
+            "children\u2019s",
+            "programs.",
+            "chalice",
+            "hampers"
+        ],
+        "name": null,
+        "openingHours": null,
+        "telephone": null,
+        "thumbnail": null,
+        "url": "www.careandshare.ca"
+    }
+]

@@ -1,5 +1,7 @@
 #!/usr/bin/env python
+import json
 import os
+import pprint
 
 import bs4
 import requests
@@ -111,13 +113,71 @@ def top_words(content, count_limit=3, limit=3):
     return sorted(tfidf.items(), key=lambda x: x[1], reverse=True)[:limit]
 
 
-
-global_term_frequency()
-for url in urls():
-    url = url+"/about"
+def keywords(url):
     content = get_cached_content(url)
-    # content = get_cached_content(url)
-    if content:
-        words = top_words(content, limit=5)
-        words = [word[0] for word in words]
-        print(url, words)
+    if content is None:
+        return None
+    words = top_words(content, limit=5)
+    return [word[0] for word in words]
+
+
+def get_meta_tags(url):
+    content = get_cached_content(url)
+    if content is None:
+        return {}
+    soup = bs4.BeautifulSoup(content, "html.parser")
+    metas = soup.find_all("meta")
+    data = {}
+    for meta in metas:
+        if "name" in meta.attrs:
+            data[meta.attrs["name"]] = meta.attrs["content"]
+        elif "property" in meta.attrs:
+            data[meta.attrs["property"]] = meta.attrs["content"]
+
+    scripts = soup.findAll("script", {"type": "application/ld+json"})
+    for script in scripts:
+        try:
+            data.update(json.loads(script.text))
+        except:
+            pass
+    return data
+
+
+def get_services():
+    for url in urls():
+        metas = get_meta_tags(url)
+
+        words = keywords(url)
+        thumbnail = metas.get("thumbnailUrl", metas.get("og:image", None))
+        name = metas.get("name", metas.get("og:title", metas.get("twitter:title")))
+        description = metas.get("description", metas.get("og:description", metas.get("twitter:description")))
+
+
+        data = {
+            "url": url,
+            "name": name,
+            "description": description,
+            "thumbnail": thumbnail,
+            "keywords": words,
+            "openingHours": metas.get("openingHours", None),
+            "address": metas.get("address", None),
+            "telephone": metas.get("telephone", None),
+            "email": metas.get("email", None),
+        }
+        if name is not None or description is not None or thumbnail is not None:
+            yield data
+
+
+def main():
+    services = []
+    for service in get_services():
+        pprint.pprint(service)
+        services.append(service)
+        if len(services) > 50:
+            break
+
+    with open("./web/src/services.json", "w") as f:
+        f.write(json.dumps(services, indent=4, sort_keys=True, ensure_ascii=True))
+
+
+main()
